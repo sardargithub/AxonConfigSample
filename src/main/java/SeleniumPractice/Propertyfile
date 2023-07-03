@@ -1,0 +1,3 @@
+UNTF=//*[@id='username']
+PWTF=//*[@id='password']
+Login=//*[text()='SIGN IN']

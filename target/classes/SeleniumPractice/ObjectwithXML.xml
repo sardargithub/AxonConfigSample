@@ -1,0 +1,5 @@
+<login>
+<UNTF>//*[@id='username']</UNTF>
+<PWTF>//*[@id='password']</PWTF>
+<Loginbutton>//*[text()='SIGN IN']</Loginbutton>
+</login>
